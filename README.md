@@ -1,2 +1,2 @@
 # ItsPlasma
-https://itsplasma01.github.io/ItsPlasma/
+ https://itsplasma01.github.io/ItsPlasma/
